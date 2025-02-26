@@ -6,7 +6,7 @@ YumCycle is a mobile application designed to help users efficiently manage their
 
 ## Features
 
-- **Barcode Scanning:** Quickly add items to your virtual fridge by scanning product barcodes.
+- **Barcode Scanning:** Quickly add items to your virtual fridge by scanning product barcodes, still to be implemented.
 - **Manual Entry:** Manually input product details for items without barcodes.
 - **Recipe Suggestions:** Get personalized recipe recommendations based on available ingredients.
 - **Inventory Management:** Keep track of fridge and pantry contents.
@@ -17,8 +17,7 @@ YumCycle is a mobile application designed to help users efficiently manage their
 - **Backend:** Java, Spring Boot
 - **Database:** MySQL
 - **API Integrations:**
-  - **Barcode API** for product details retrieval
-  - **Recipe API** for dynamic recipe suggestions
+  - **Ollama API** for dynamic recipe suggestions, generating recipes based on user preferences
 - **Frontend:** Android (Java/Kotlin)
 - **Security:** Spring Security for authentication and data protection
 
